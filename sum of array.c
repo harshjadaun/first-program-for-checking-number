@@ -1,5 +1,4 @@
 #include <stdio.h>
- 
 int main(void) {
 	// your code goes here
 	int i,N,K,arr[100],sum=0;
